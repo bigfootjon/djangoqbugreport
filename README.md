@@ -1,5 +1,7 @@
 # Django Q and ManyToMany Bug Report Repo
 
+Django bug: https://code.djangoproject.com/ticket/34786
+
 Repro instructions:
 1. Clone this repo
 2. `pip install -r requirements.txt`
